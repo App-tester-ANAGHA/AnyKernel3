@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Nexus Kernel for realme sdm710
+kernel.string=Nexus Kernel for Realme 3 Pro and 5 Pro (RMX1851/RMX1971)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
